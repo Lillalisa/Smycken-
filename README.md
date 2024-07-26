@@ -27,7 +27,7 @@ Här kan du köpa fina smycken
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Smycken Shop</p>
+        <p>&copy; 2024 Smyckes Shop</p>
     </footer>
 </body>
 </html>

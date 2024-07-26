@@ -1,16 +1,14 @@
-# Smycken-
-Här kan du köpa fina smycken 
 <!DOCTYPE html>
 <html lang="sv">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smycken Shop</title>
+    <title>Produktkatalog - Smycken Shop</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Välkommen till Smycken Shop</h1>
+        <h1>Smycken Shop</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Hem</a></li>
@@ -20,14 +18,22 @@ Här kan du köpa fina smycken
         </nav>
     </header>
     <main>
-        <section class="hero">
-            <h2>Vackra handgjorda smycken</h2>
-            <p>Upptäck vår exklusiva kollektion</p>
-            <a href="catalog.html" class="btn">Shoppa nu</a>
+        <h2>Produktkatalog</h2>
+        <section class="product">
+            <img src="img/necklace.jpg" alt="Halsband">
+            <h3>Vackert Halsband</h3>
+            <p>Pris: 500 SEK</p>
+            <button class="btn">Köp nu</button>
+        </section>
+        <section class="product">
+            <img src="img/bracelet.jpg" alt="Armband">
+            <h3>Elegant Armband</h3>
+            <p>Pris: 300 SEK</p>
+            <button class="btn">Köp nu</button>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Smyckes Shop</p>
+        <p>&copy; 2024 Smycken Shop</p>
     </footer>
 </body>
-</html>
+</html>p
